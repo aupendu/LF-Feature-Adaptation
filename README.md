@@ -2,7 +2,7 @@
 
 
 # Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging
-This is the PyTorch implementation for our paper:
+This is the PyTorch implementation for our ICIP 2022 paper:
 
 **Aupendu Kar, Suresh Nehra, Jayanta Mukhopadhyay, Prabir Kumar Biswas. Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging. [[Project Website]](https://aupendu.github.io/LFSAFA-SR) [[PAPER]](https://aupendu.github.io/LFSAFA-SR)
 
